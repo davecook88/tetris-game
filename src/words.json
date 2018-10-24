@@ -1,0 +1,1198 @@
+[
+  {
+    "word": "homework",
+    "category": "uncountable"
+  },
+  {
+    "word": "equipment",
+    "category": "uncountable"
+  },
+  {
+    "word": "luggage",
+    "category": "uncountable"
+  },
+  {
+    "word": "clothing",
+    "category": "uncountable"
+  },
+  {
+    "word": "furniture",
+    "category": "uncountable"
+  },
+  {
+    "word": "machinery",
+    "category": "uncountable"
+  },
+  {
+    "word": "gold",
+    "category": "uncountable"
+  },
+  {
+    "word": "silver",
+    "category": "uncountable"
+  },
+  {
+    "word": "cotton",
+    "category": "uncountable"
+  },
+  {
+    "word": "glass",
+    "category": "uncountable"
+  },
+  {
+    "word": "jewelery",
+    "category": "uncountable"
+  },
+  {
+    "word": "perfume",
+    "category": "uncountable"
+  },
+  {
+    "word": "soap",
+    "category": "uncountable"
+  },
+  {
+    "word": "paper",
+    "category": "uncountable"
+  },
+  {
+    "word": "wood",
+    "category": "uncountable"
+  },
+  {
+    "word": "petrol",
+    "category": "uncountable"
+  },
+  {
+    "word": "gasoline",
+    "category": "uncountable"
+  },
+  {
+    "word": "baggage",
+    "category": "uncountable"
+  },
+  {
+    "word": "hair",
+    "category": "uncountable"
+  },
+  {
+    "word": "traffic",
+    "category": "uncountable"
+  },
+  {
+    "word": "food",
+    "category": "uncountable"
+  },
+  {
+    "word": "flour",
+    "category": "uncountable"
+  },
+  {
+    "word": "meat",
+    "category": "uncountable"
+  },
+  {
+    "word": "rice",
+    "category": "uncountable"
+  },
+  {
+    "word": "cake",
+    "category": "uncountable"
+  },
+  {
+    "word": "bread",
+    "category": "uncountable"
+  },
+  {
+    "word": "ice cream",
+    "category": "uncountable"
+  },
+  {
+    "word": "cheese",
+    "category": "uncountable"
+  },
+  {
+    "word": "toast",
+    "category": "uncountable"
+  },
+  {
+    "word": "pasta",
+    "category": "uncountable"
+  },
+  {
+    "word": "spaghetti",
+    "category": "uncountable"
+  },
+  {
+    "word": "butter",
+    "category": "uncountable"
+  },
+  {
+    "word": "oil",
+    "category": "uncountable"
+  },
+  {
+    "word": "honey",
+    "category": "uncountable"
+  },
+  {
+    "word": "soup",
+    "category": "uncountable"
+  },
+  {
+    "word": "fish",
+    "category": "uncountable"
+  },
+  {
+    "word": "fruit",
+    "category": "uncountable"
+  },
+  {
+    "word": "salt",
+    "category": "uncountable"
+  },
+  {
+    "word": "tea",
+    "category": "uncountable"
+  },
+  {
+    "word": "coffee",
+    "category": "uncountable"
+  },
+  {
+    "word": "mathematics",
+    "category": "uncountable"
+  },
+  {
+    "word": "economics",
+    "category": "uncountable"
+  },
+  {
+    "word": "physics",
+    "category": "uncountable"
+  },
+  {
+    "word": "ethics",
+    "category": "uncountable"
+  },
+  {
+    "word": "civics",
+    "category": "uncountable"
+  },
+  {
+    "word": "art",
+    "category": "uncountable"
+  },
+  {
+    "word": "architecture",
+    "category": "uncountable"
+  },
+  {
+    "word": "music",
+    "category": "uncountable"
+  },
+  {
+    "word": "photography",
+    "category": "uncountable"
+  },
+  {
+    "word": "grammar",
+    "category": "uncountable"
+  },
+  {
+    "word": "chemistry",
+    "category": "uncountable"
+  },
+  {
+    "word": "history",
+    "category": "uncountable"
+  },
+  {
+    "word": "commerce",
+    "category": "uncountable"
+  },
+  {
+    "word": "engineering",
+    "category": "uncountable"
+  },
+  {
+    "word": "politics",
+    "category": "uncountable"
+  },
+  {
+    "word": "sociology",
+    "category": "uncountable"
+  },
+  {
+    "word": "psychology",
+    "category": "uncountable"
+  },
+  {
+    "word": "vocabulary",
+    "category": "uncountable"
+  },
+  {
+    "word": "archaeology",
+    "category": "uncountable"
+  },
+  {
+    "word": "poetry",
+    "category": "uncountable"
+  },
+  {
+    "word": "advice",
+    "category": "uncountable"
+  },
+  {
+    "word": "help",
+    "category": "uncountable"
+  },
+  {
+    "word": "fun",
+    "category": "uncountable"
+  },
+  {
+    "word": "recreation",
+    "category": "uncountable"
+  },
+  {
+    "word": "enjoyment",
+    "category": "uncountable"
+  },
+  {
+    "word": "information",
+    "category": "uncountable"
+  },
+  {
+    "word": "knowledge",
+    "category": "uncountable"
+  },
+  {
+    "word": "news",
+    "category": "uncountable"
+  },
+  {
+    "word": "patience",
+    "category": "uncountable"
+  },
+  {
+    "word": "happiness",
+    "category": "uncountable"
+  },
+  {
+    "word": "progress",
+    "category": "uncountable"
+  },
+  {
+    "word": "confidence",
+    "category": "uncountable"
+  },
+  {
+    "word": "courage",
+    "category": "uncountable"
+  },
+  {
+    "word": "education",
+    "category": "uncountable"
+  },
+  {
+    "word": "intelligence",
+    "category": "uncountable"
+  },
+  {
+    "word": "space",
+    "category": "uncountable"
+  },
+  {
+    "word": "energy",
+    "category": "uncountable"
+  },
+  {
+    "word": "laughter",
+    "category": "uncountable"
+  },
+  {
+    "word": "peace",
+    "category": "uncountable"
+  },
+  {
+    "word": "pride",
+    "category": "uncountable"
+  },
+  {
+    "word": "thunder",
+    "category": "uncountable"
+  },
+  {
+    "word": "lightning",
+    "category": "uncountable"
+  },
+  {
+    "word": "snow",
+    "category": "uncountable"
+  },
+  {
+    "word": "rain",
+    "category": "uncountable"
+  },
+  {
+    "word": "sleet",
+    "category": "uncountable"
+  },
+  {
+    "word": "ice",
+    "category": "uncountable"
+  },
+  {
+    "word": "heat",
+    "category": "uncountable"
+  },
+  {
+    "word": "humidity",
+    "category": "uncountable"
+  },
+  {
+    "word": "hail",
+    "category": "uncountable"
+  },
+  {
+    "word": "wind",
+    "category": "uncountable"
+  },
+  {
+    "word": "light",
+    "category": "uncountable"
+  },
+  {
+    "word": "darkness",
+    "category": "uncountable"
+  },
+  {
+    "word": "golf",
+    "category": "uncountable"
+  },
+  {
+    "word": "tennis",
+    "category": "uncountable"
+  },
+  {
+    "word": "baseball",
+    "category": "uncountable"
+  },
+  {
+    "word": "basketball",
+    "category": "uncountable"
+  },
+  {
+    "word": "soccer",
+    "category": "uncountable"
+  },
+  {
+    "word": "football",
+    "category": "uncountable"
+  },
+  {
+    "word": "cricket",
+    "category": "uncountable"
+  },
+  {
+    "word": "hockey",
+    "category": "uncountable"
+  },
+  {
+    "word": "rugby",
+    "category": "uncountable"
+  },
+  {
+    "word": "chess",
+    "category": "uncountable"
+  },
+  {
+    "word": "English",
+    "category": "uncountable"
+  },
+  {
+    "word": "Portuguese",
+    "category": "uncountable"
+  },
+  {
+    "word": "Hindi",
+    "category": "uncountable"
+  },
+  {
+    "word": "Arabic",
+    "category": "uncountable"
+  },
+  {
+    "word": "Japanese",
+    "category": "uncountable"
+  },
+  {
+    "word": "Korean",
+    "category": "uncountable"
+  },
+  {
+    "word": "Spanish",
+    "category": "uncountable"
+  },
+  {
+    "word": "French",
+    "category": "uncountable"
+  },
+  {
+    "word": "Russian",
+    "category": "uncountable"
+  },
+  {
+    "word": "Italian",
+    "category": "uncountable"
+  },
+  {
+    "word": "Hebrew",
+    "category": "uncountable"
+  },
+  {
+    "word": "Chinese",
+    "category": "uncountable"
+  },
+  {
+    "word": "swimming",
+    "category": "uncountable"
+  },
+  {
+    "word": "walking",
+    "category": "uncountable"
+  },
+  {
+    "word": "driving",
+    "category": "uncountable"
+  },
+  {
+    "word": "jogging",
+    "category": "uncountable"
+  },
+  {
+    "word": "reading",
+    "category": "uncountable"
+  },
+  {
+    "word": "writing",
+    "category": "uncountable"
+  },
+  {
+    "word": "listening",
+    "category": "uncountable"
+  },
+  {
+    "word": "speaking",
+    "category": "uncountable"
+  },
+  {
+    "word": "cooking",
+    "category": "uncountable"
+  },
+  {
+    "word": "sleeping",
+    "category": "uncountable"
+  },
+  {
+    "word": "studying",
+    "category": "uncountable"
+  },
+  {
+    "word": "working",
+    "category": "uncountable"
+  },
+  {
+    "word": "accident",
+    "category": "countable"
+  },
+  {
+    "word": "account",
+    "category": "countable"
+  },
+  {
+    "word": "actor",
+    "category": "countable"
+  },
+  {
+    "word": "address",
+    "category": "countable"
+  },
+  {
+    "word": "adult",
+    "category": "countable"
+  },
+  {
+    "word": "animal",
+    "category": "countable"
+  },
+  {
+    "word": "answer",
+    "category": "countable"
+  },
+  {
+    "word": "apartment",
+    "category": "countable"
+  },
+  {
+    "word": "article",
+    "category": "countable"
+  },
+  {
+    "word": "artist",
+    "category": "countable"
+  },
+  {
+    "word": "baby",
+    "category": "countable"
+  },
+  {
+    "word": "bag",
+    "category": "countable"
+  },
+  {
+    "word": "ball",
+    "category": "countable"
+  },
+  {
+    "word": "bank",
+    "category": "countable"
+  },
+  {
+    "word": "battle",
+    "category": "countable"
+  },
+  {
+    "word": "beach",
+    "category": "countable"
+  },
+  {
+    "word": "bed",
+    "category": "countable"
+  },
+  {
+    "word": "bell",
+    "category": "countable"
+  },
+  {
+    "word": "bill",
+    "category": "countable"
+  },
+  {
+    "word": "bird",
+    "category": "countable"
+  },
+  {
+    "word": "boat",
+    "category": "countable"
+  },
+  {
+    "word": "book",
+    "category": "countable"
+  },
+  {
+    "word": "bottle",
+    "category": "countable"
+  },
+  {
+    "word": "box",
+    "category": "countable"
+  },
+  {
+    "word": "boy",
+    "category": "countable"
+  },
+  {
+    "word": "bridge",
+    "category": "countable"
+  },
+  {
+    "word": "brother",
+    "category": "countable"
+  },
+  {
+    "word": "bus",
+    "category": "countable"
+  },
+  {
+    "word": "bush",
+    "category": "countable"
+  },
+  {
+    "word": "camp",
+    "category": "countable"
+  },
+  {
+    "word": "captain",
+    "category": "countable"
+  },
+  {
+    "word": "car",
+    "category": "countable"
+  },
+  {
+    "word": "card",
+    "category": "countable"
+  },
+  {
+    "word": "case",
+    "category": "countable"
+  },
+  {
+    "word": "castle",
+    "category": "countable"
+  },
+  {
+    "word": "cat",
+    "category": "countable"
+  },
+  {
+    "word": "chair",
+    "category": "countable"
+  },
+  {
+    "word": "chapter",
+    "category": "countable"
+  },
+  {
+    "word": "chest",
+    "category": "countable"
+  },
+  {
+    "word": "child",
+    "category": "countable"
+  },
+  {
+    "word": "cigarette",
+    "category": "countable"
+  },
+  {
+    "word": "city",
+    "category": "countable"
+  },
+  {
+    "word": "class",
+    "category": "countable"
+  },
+  {
+    "word": "club",
+    "category": "countable"
+  },
+  {
+    "word": "coat",
+    "category": "countable"
+  },
+  {
+    "word": "college",
+    "category": "countable"
+  },
+  {
+    "word": "computer",
+    "category": "countable"
+  },
+  {
+    "word": "corner",
+    "category": "countable"
+  },
+  {
+    "word": "country",
+    "category": "countable"
+  },
+  {
+    "word": "crowd",
+    "category": "countable"
+  },
+  {
+    "word": "cup",
+    "category": "countable"
+  },
+  {
+    "word": "daughter",
+    "category": "countable"
+  },
+  {
+    "word": "day",
+    "category": "countable"
+  },
+  {
+    "word": "desk",
+    "category": "countable"
+  },
+  {
+    "word": "doctor",
+    "category": "countable"
+  },
+  {
+    "word": "dog",
+    "category": "countable"
+  },
+  {
+    "word": "door",
+    "category": "countable"
+  },
+  {
+    "word": "dream",
+    "category": "countable"
+  },
+  {
+    "word": "dress",
+    "category": "countable"
+  },
+  {
+    "word": "driver",
+    "category": "countable"
+  },
+  {
+    "word": "ear",
+    "category": "countable"
+  },
+  {
+    "word": "edge",
+    "category": "countable"
+  },
+  {
+    "word": "effect",
+    "category": "countable"
+  },
+  {
+    "word": "egg",
+    "category": "countable"
+  },
+  {
+    "word": "election",
+    "category": "countable"
+  },
+  {
+    "word": "engine",
+    "category": "countable"
+  },
+  {
+    "word": "eye",
+    "category": "countable"
+  },
+  {
+    "word": "face",
+    "category": "countable"
+  },
+  {
+    "word": "factory",
+    "category": "countable"
+  },
+  {
+    "word": "farm",
+    "category": "countable"
+  },
+  {
+    "word": "father",
+    "category": "countable"
+  },
+  {
+    "word": "field",
+    "category": "countable"
+  },
+  {
+    "word": "film",
+    "category": "countable"
+  },
+  {
+    "word": "finger",
+    "category": "countable"
+  },
+  {
+    "word": "foot",
+    "category": "countable"
+  },
+  {
+    "word": "friend",
+    "category": "countable"
+  },
+  {
+    "word": "game",
+    "category": "countable"
+  },
+  {
+    "word": "garden",
+    "category": "countable"
+  },
+  {
+    "word": "gate",
+    "category": "countable"
+  },
+  {
+    "word": "girl",
+    "category": "countable"
+  },
+  {
+    "word": "group",
+    "category": "countable"
+  },
+  {
+    "word": "gun",
+    "category": "countable"
+  },
+  {
+    "word": "hall",
+    "category": "countable"
+  },
+  {
+    "word": "hand",
+    "category": "countable"
+  },
+  {
+    "word": "handle",
+    "category": "countable"
+  },
+  {
+    "word": "hat",
+    "category": "countable"
+  },
+  {
+    "word": "head",
+    "category": "countable"
+  },
+  {
+    "word": "heart",
+    "category": "countable"
+  },
+  {
+    "word": "hill",
+    "category": "countable"
+  },
+  {
+    "word": "horse",
+    "category": "countable"
+  },
+  {
+    "word": "hospital",
+    "category": "countable"
+  },
+  {
+    "word": "hotel",
+    "category": "countable"
+  },
+  {
+    "word": "hour",
+    "category": "countable"
+  },
+  {
+    "word": "house",
+    "category": "countable"
+  },
+  {
+    "word": "husband",
+    "category": "countable"
+  },
+  {
+    "word": "idea",
+    "category": "countable"
+  },
+  {
+    "word": "island",
+    "category": "countable"
+  },
+  {
+    "word": "issue",
+    "category": "countable"
+  },
+  {
+    "word": "job",
+    "category": "countable"
+  },
+  {
+    "word": "journey",
+    "category": "countable"
+  },
+  {
+    "word": "judge",
+    "category": "countable"
+  },
+  {
+    "word": "key",
+    "category": "countable"
+  },
+  {
+    "word": "king",
+    "category": "countable"
+  },
+  {
+    "word": "kitchen",
+    "category": "countable"
+  },
+  {
+    "word": "lady",
+    "category": "countable"
+  },
+  {
+    "word": "lake",
+    "category": "countable"
+  },
+  {
+    "word": "library",
+    "category": "countable"
+  },
+  {
+    "word": "line",
+    "category": "countable"
+  },
+  {
+    "word": "list",
+    "category": "countable"
+  },
+  {
+    "word": "machine",
+    "category": "countable"
+  },
+  {
+    "word": "magazine",
+    "category": "countable"
+  },
+  {
+    "word": "man",
+    "category": "countable"
+  },
+  {
+    "word": "meal",
+    "category": "countable"
+  },
+  {
+    "word": "meeting",
+    "category": "countable"
+  },
+  {
+    "word": "member",
+    "category": "countable"
+  },
+  {
+    "word": "message",
+    "category": "countable"
+  },
+  {
+    "word": "method",
+    "category": "countable"
+  },
+  {
+    "word": "minute",
+    "category": "countable"
+  },
+  {
+    "word": "mistake",
+    "category": "countable"
+  },
+  {
+    "word": "model",
+    "category": "countable"
+  },
+  {
+    "word": "month",
+    "category": "countable"
+  },
+  {
+    "word": "motor",
+    "category": "countable"
+  },
+  {
+    "word": "mouth",
+    "category": "countable"
+  },
+  {
+    "word": "nation",
+    "category": "countable"
+  },
+  {
+    "word": "neck",
+    "category": "countable"
+  },
+  {
+    "word": "newspaper",
+    "category": "countable"
+  },
+  {
+    "word": "office",
+    "category": "countable"
+  },
+  {
+    "word": "page",
+    "category": "countable"
+  },
+  {
+    "word": "park",
+    "category": "countable"
+  },
+  {
+    "word": "party",
+    "category": "countable"
+  },
+  {
+    "word": "path",
+    "category": "countable"
+  },
+  {
+    "word": "picture",
+    "category": "countable"
+  },
+  {
+    "word": "plan",
+    "category": "countable"
+  },
+  {
+    "word": "plane",
+    "category": "countable"
+  },
+  {
+    "word": "plant",
+    "category": "countable"
+  },
+  {
+    "word": "problem",
+    "category": "countable"
+  },
+  {
+    "word": "product",
+    "category": "countable"
+  },
+  {
+    "word": "programme",
+    "category": "countable"
+  },
+  {
+    "word": "project",
+    "category": "countable"
+  },
+  {
+    "word": "ring",
+    "category": "countable"
+  },
+  {
+    "word": "river",
+    "category": "countable"
+  },
+  {
+    "word": "road",
+    "category": "countable"
+  },
+  {
+    "word": "room",
+    "category": "countable"
+  },
+  {
+    "word": "scheme",
+    "category": "countable"
+  },
+  {
+    "word": "school",
+    "category": "countable"
+  },
+  {
+    "word": "ship",
+    "category": "countable"
+  },
+  {
+    "word": "shirt",
+    "category": "countable"
+  },
+  {
+    "word": "shock",
+    "category": "countable"
+  },
+  {
+    "word": "shop",
+    "category": "countable"
+  },
+  {
+    "word": "sister",
+    "category": "countable"
+  },
+  {
+    "word": "smile",
+    "category": "countable"
+  },
+  {
+    "word": "son",
+    "category": "countable"
+  },
+  {
+    "word": "spot",
+    "category": "countable"
+  },
+  {
+    "word": "star",
+    "category": "countable"
+  },
+  {
+    "word": "station",
+    "category": "countable"
+  },
+  {
+    "word": "stream",
+    "category": "countable"
+  },
+  {
+    "word": "street",
+    "category": "countable"
+  },
+  {
+    "word": "student",
+    "category": "countable"
+  },
+  {
+    "word": "table",
+    "category": "countable"
+  },
+  {
+    "word": "task",
+    "category": "countable"
+  },
+  {
+    "word": "teacher",
+    "category": "countable"
+  },
+  {
+    "word": "tent",
+    "category": "countable"
+  },
+  {
+    "word": "thought",
+    "category": "countable"
+  },
+  {
+    "word": "tour",
+    "category": "countable"
+  },
+  {
+    "word": "town",
+    "category": "countable"
+  },
+  {
+    "word": "valley",
+    "category": "countable"
+  },
+  {
+    "word": "village",
+    "category": "countable"
+  },
+  {
+    "word": "walk",
+    "category": "countable"
+  },
+  {
+    "word": "wall",
+    "category": "countable"
+  },
+  {
+    "word": "week",
+    "category": "countable"
+  },
+  {
+    "word": "window",
+    "category": "countable"
+  },
+  {
+    "word": "woman",
+    "category": "countable"
+  },
+  {
+    "word": "year",
+    "category": "countable"
+  }
+]
